@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "element-plus": "^2.1.7",
-    "vue": "^3.2.25"
+    "vue": "^3.2.31"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.3.0",
